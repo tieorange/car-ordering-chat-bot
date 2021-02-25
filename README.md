@@ -1,4 +1,5 @@
-# Telegraff Sample
+# Car ordering bot
+## Order cars with Telegram bot 🦄 🚖
 
 ## Gradle
 
